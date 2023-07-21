@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "kolli",
+      "email": "kolli@sbi.com",
+      "phone": "8824232565",
+      "id": "5ce6122d-902d-49c5-ac71-d10debe19626"
+    },
+    {
+      "name": "aswini",
+      "email": "aswini@gmail.com",
+      "phone": "09311832023",
+      "id": "e74ca151-4b8d-46b2-ae60-37cb25e6b256"
+    },
+    {
+      "name": "vamsi naidu",
+      "email": "Vamsi.Naidu@creditsafe.com",
+      "phone": "7788774477",
+      "id": "3cac1298-36a3-4c8e-958a-ebeb04600481"
+    },
+    {
+      "name": "ramesh",
+      "email": "ramesh@gmail.com",
+      "phone": "709577693",
+      "id": "1587a28e-d4bf-43ff-8a13-561bb7845edb"
+    },
+    {
+      "id": "d8343d82-4077-425f-827b-6c75f1537022",
+      "name": "vamsi naidu",
+      "email": "Vamsi.Naidu@creditsafe.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "6c1b04c6-84ab-4a16-b7c0-e5176830f14b",
+      "name": "vamsi naidu",
+      "email": "Vamsi.Naidu@creditsafe.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "7ffb5d76-2529-4e75-bafd-d1fa2db0d572",
+      "name": "vamsi",
+      "email": "vamsi@gmail.com",
+      "phone": "07793923253"
+    }
+  ]
+}
